@@ -1,0 +1,1 @@
+The result of the texts combined will be: This is going to be my first file, This is going to be my second file.
